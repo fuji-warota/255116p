@@ -1,4 +1,4 @@
-NAME := 255116p
+NAME := my-echo
 REPOSITORY := fuji-warota/$(NAME)
 TAG := 20221206
 GOOS := linux
